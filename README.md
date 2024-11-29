@@ -11,7 +11,7 @@ This directory contains the Altium design files for the iPIR hardware.
 ### ESP32 embedded code: 
 This directory contains the source code for the iPIR, which is written in C and designed to run on the ESP32 microcontroller.
 ### Python code for model training: 
-This directory contains the source code for training the LVQ model, which is written in Python and uses the scikit-learn library.
+This directory contains the source code for training the LVQ model, which is written in Python and uses the pytorch library.
 ### Dataset: 
 This directory contains the dataset that was used to train and evaluate the LVQ model.
 
