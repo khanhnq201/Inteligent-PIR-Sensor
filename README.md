@@ -16,4 +16,4 @@ This directory contains the dataset that was used to train and evaluate the LVQ 
 # References
 This project is based on the following paper:
 
-Doan, T. K., Linh, N. T. N., Chau, H. N., Le, M. T., & Nguyen, Q. C. (2024). Intelligent Passive Infrared Sensor based on Learning Vector Quantization for Human Detection. Engineering Research Express, in press.
+Doan, T. K., Linh, N. T. N., Chau, H. N., Le, M. T., & Nguyen, Q. C. (2024). Intelligent Passive Infrared Sensor based on Learning Vector Quantization for Human Detection. Engineering Research Express, Volume 6, Number 1, DOI: 10.1088/2631-8695/ad351e
