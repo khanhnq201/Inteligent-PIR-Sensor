@@ -9,7 +9,7 @@ The repo is organized into three main parts:
 ### Altium Circuit: 
 This directory contains the Altium design files for the iPIR hardware.
 ### ESP32 embedded code: 
-This directory contains the source code for the iPIR, which is written in C++ and designed to run on the ESP32 microcontroller.
+This directory contains the source code for the iPIR, which is written in C and designed to run on the ESP32 microcontroller.
 ### Python code for model training: 
 This directory contains the source code for training the LVQ model, which is written in Python and uses the scikit-learn library.
 ### Dataset: 
