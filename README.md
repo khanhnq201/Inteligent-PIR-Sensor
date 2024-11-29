@@ -6,11 +6,11 @@ This repo contains the code and data for an intelligent passive infrared (iPIR) 
 
 # Contents
 The repo is organized into three main parts:
-## ESP32 embedded code: 
+### ESP32 embedded code: 
 This directory contains the source code for the iPIR, which is written in C++ and designed to run on the ESP32 microcontroller.
-## Python code for model training: 
+### Python code for model training: 
 This directory contains the source code for training the LVQ model, which is written in Python and uses the scikit-learn library.
-## Dataset: 
+### Dataset: 
 This directory contains the dataset that was used to train and evaluate the LVQ model.
 
 # References
